@@ -1,0 +1,18 @@
+{
+  "model": "LSTM",
+  "feature_set": "E1",
+  "horizon": 30,
+  "n_samples": 46356,
+  "epochs_trained": 39,
+  "rmse": 14.91401645979012,
+  "mae": 9.958081245422363,
+  "clarke_A": 91.63430839589266,
+  "clarke_B": 6.622659418414013,
+  "clarke_AB": 98.25696781430668,
+  "clarke_C": 0.0,
+  "clarke_D": 1.7430321856933297,
+  "clarke_E": 0.0,
+  "fit_seconds": 1142.9056882858276,
+  "timestamp": "2026-01-29T18:53:32.130451",
+  "seed": 42
+}
